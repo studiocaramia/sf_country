@@ -1,0 +1,11 @@
+{
+    "name": "caramia/sf_country",
+    "require": {
+    	"gedmo/doctrine-extensions"
+    },
+    "autoload": {
+        "psr-0" : {
+            "Caramia\\Country" : "src"
+        }
+    }
+}
